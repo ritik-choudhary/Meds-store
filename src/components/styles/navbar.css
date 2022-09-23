@@ -1,0 +1,50 @@
+nav {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  background: maroon;
+  width: 100%;
+  justify-content: space-between;
+  padding: 25px 50px;
+  color: white;
+}
+
+.left,
+.right,
+.mid {
+  display: flex;
+  align-items: center;
+}
+
+.left {
+  gap: 20px;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  border-radius: 5px;
+  background: grey;
+}
+.company-name {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.mid {
+  gap: 50px;
+  font-size: 18px;
+}
+.option {
+  cursor: pointer;
+}
+
+.right {
+  gap: 20px;
+  font-size: 18px;
+}
+.login {
+  cursor: pointer;
+}
+.user {
+  cursor: pointer;
+}
