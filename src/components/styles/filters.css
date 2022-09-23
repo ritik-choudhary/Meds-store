@@ -36,3 +36,7 @@
 .list-item:hover {
   background-color: rgb(94, 228, 152);
 }
+
+.active {
+  background-color: rgb(94, 228, 152);
+}

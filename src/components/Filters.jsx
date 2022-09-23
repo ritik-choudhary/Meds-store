@@ -10,7 +10,7 @@ export default function Filters() {
           <div className='list-item'>Paracetamol Tablets</div>
           <div className='list-item'>Paracetamol Syrup</div>
           <div className='list-item'>Paracetamol Powder</div>
-          <div className='list-item'>Aceclofenac</div>
+          <div className='list-item active'>Aceclofenac</div>
           <div className='list-item'>
             Megaladrate Simethicone Oral Suspension
           </div>
@@ -39,7 +39,7 @@ export default function Filters() {
       <div className='filter-type'>
         <div className='heading'>Strength</div>
         <div className='filter-list'>
-          <div className='list-item'>500 mg</div>
+          <div className='list-item active'>500 mg</div>
           <div className='list-item'>650 mg</div>
         </div>
       </div>
